@@ -1,6 +1,7 @@
 # tec-LACE
 TEC-1 Electroencephalography
 
+connect to https://github.com/SteveJustin1963/tec-BRAIN
 
 ## Ref
 - https://openbci.com/
