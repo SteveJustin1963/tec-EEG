@@ -9,4 +9,4 @@ TEC-1 Electroencephalography
 
 
 ## Iterate
-- cognitive radio to form mental mesh links - Cogdio
+- Cognitive radio links to form mental mesh links between multiple humans - https://github.com/SteveJustin1963/tec-Cogdio
