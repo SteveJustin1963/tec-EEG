@@ -10,4 +10,5 @@ connect to https://github.com/SteveJustin1963/tec-BRAIN
 
 
 ## Iterate
-- Cognitive radio links to form mental mesh links between multiple humans - https://github.com/SteveJustin1963/tec-Cogni-io
+- Cognitive radio links to form mental mesh links between multiple humans and or tec-Brains
+- https://github.com/SteveJustin1963/tec-Cogni-io
