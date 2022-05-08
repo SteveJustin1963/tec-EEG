@@ -7,14 +7,14 @@ s1e1-pilot, features two people merging their brains together using a special in
 
 ### Back-to-the-Future-part I
 
-![]()
-![]()
-![]()
+![](https://github.com/SteveJustin1963/tec-LACE/blob/master/pics/doc1.png)
 
+![](https://github.com/SteveJustin1963/tec-LACE/blob/master/pics/doc2.png)
 
+![](https://github.com/SteveJustin1963/tec-LACE/blob/master/pics/doc3.png)
 
-
-Tec-Lace has been coined from Neuralink Corporation (https://neuralink.com/), ultra high bandwidth brain-machine interfaces to connect humans and computers, using implantable brain–machine interfaces (BMIs). Their "neural lace is an ultra-thin mesh with a collection of electrodes capable of monitoring brain function and facilitating direct computing capabilities from thought. It is inserted through the skull using a tiny needle containing the rolled-up mesh which unravels spanning the brain." 
+### Neuralink Corporation 
+(https://neuralink.com/), ultra high bandwidth brain-machine interfaces to connect humans and computers, using implantable brain–machine interfaces (BMIs). Their "neural lace is an ultra-thin mesh with a collection of electrodes capable of monitoring brain function and facilitating direct computing capabilities from thought. It is inserted through the skull using a tiny needle containing the rolled-up mesh which unravels spanning the brain." 
 ![]()
 
 
