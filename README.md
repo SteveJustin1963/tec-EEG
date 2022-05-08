@@ -22,9 +22,32 @@ Marty is trying to explain to Doc that he is from the future and needs his help 
 (https://neuralink.com/), ultra high bandwidth brain-machine interfaces to connect humans and computers, using implantable brain–machine interfaces (BMIs). Their "neural lace is an ultra-thin mesh with a collection of electrodes capable of monitoring brain function and facilitating direct computing capabilities from thought. It is inserted through the skull using a tiny needle containing the rolled-up mesh which unravels spanning the brain." 
 
 
-### project
-"It's cool when the TEC-1's tec-LACE electroencephalography device, which is worn on the outside, is reading your brain, smoking weed will improve the signals as the participant is in a relaxed state." My way will not be intrusive, just use home grown pot with a low cost electrode cap. Jokes, just the cap the pots up to you.
+### My project
 
+My way will not be intrusive, just use a low cost electrode cap. 
+
+eg https://shop.openbci.com/collections/frontpage/products/openbci-eeg-electrocap
+
+- The OpenBCI EEG Electrode Cap uses reliable wet electrodes. 
+- The product comes in two variants:
+  - 21-channel electrode cap with removable, Ag/AgCl coated electrodes
+  - Premium 21-channel electrode cap with patented, sintered Ag/AgCl electrodes
+- Note, electrode gel and touchproof adapter must be purchased.
+
+Product Features: 
+- Sleek, compact design for wet electrode EEG measurements
+- Compatibility with all OpenBCI boards and standard touch-proof connectors
+- Compatibility with OpenBCI's FREE open-source software
+- Compatibility with most bioamplifiers
+- Electrodes located and labeled using the internationally recognized 10-20 system
+- Comes in two Ag-AgCl electrode variants, coated and sintered
+- The leads terminate in industry-standard 1.5mm Touch-Proof connectors and can be connected to the Cyton 8-channel or CytonDaisy 16-channel board with an electrode adapter
+
+![]()
+![]()
+
+
+"It's cool when the TEC-1's tec-LACE electroencephalography device, which is worn on the outside, is reading your brain, smoking weed will improve the signals as the participant is in a relaxed state." 
 ![](https://github.com/SteveJustin1963/tec-LACE/blob/master/pics/emsw2.png)
 
 
