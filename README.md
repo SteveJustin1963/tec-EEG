@@ -1,6 +1,6 @@
 # tec-LACE
-
-The Fringe tv series, has the science of the two brain merging interface. The scene in question depicts two people who have merged their brains together using a special interface. This allows them to share thoughts, memories, and sensations with each other. The science behind this scene is based on the principle of neural plasticity, which is the brain's ability to adapt and change in response to new experiences. This principle is what allows people to learn new skills and remember information. When two people merge their brains together, they are essentially creating a new learning experience for each other. This can help them to better understand each other and even share memories.
+The Fringe tv series, s1e1-pilot, features two people merging their brains together using a special interface. This is based on neural plasticity, the brain's ability to adapt and change in response to new experiences. When two people merge their brains together, they are essentially creating a new learning experience for each other. This is done by spiking each other in the neck, which allows the two brains to merge together.
+![]()
 
 
 Tec-Lace has been coined from Neuralink Corporation (https://neuralink.com/), ultra high bandwidth brain-machine interfaces to connect humans and computers, using implantable brain–machine interfaces (BMIs). Their "neural lace is an ultra-thin mesh with a collection of electrodes capable of monitoring brain function and facilitating direct computing capabilities from thought. It is inserted through the skull using a tiny needle containing the rolled-up mesh which unravels spanning the brain." 
