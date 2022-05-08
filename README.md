@@ -1,6 +1,10 @@
 # tec-LACE
 
-Tec-Lace has been coined from Neuralink Corporation (https://neuralink.com/), a neurotechnology company that develops implantable brain–machine interfaces (BMIs). Their "neural lace is an ultra-thin mesh with a collection of electrodes capable of monitoring brain function and facilitating direct computing capabilities from thought. It is inserted through the skull using a tiny needle containing the rolled-up mesh which unravels spanning the brain." 
+The Fringe tv series, has the science of the two brain merging interface. The scene in question depicts two people who have merged their brains together using a special interface. This allows them to share thoughts, memories, and sensations with each other. The science behind this scene is based on the principle of neural plasticity, which is the brain's ability to adapt and change in response to new experiences. This principle is what allows people to learn new skills and remember information. When two people merge their brains together, they are essentially creating a new learning experience for each other. This can help them to better understand each other and even share memories.
+
+
+Tec-Lace has been coined from Neuralink Corporation (https://neuralink.com/), ultra high bandwidth brain-machine interfaces to connect humans and computers, using implantable brain–machine interfaces (BMIs). Their "neural lace is an ultra-thin mesh with a collection of electrodes capable of monitoring brain function and facilitating direct computing capabilities from thought. It is inserted through the skull using a tiny needle containing the rolled-up mesh which unravels spanning the brain." 
+![]()
 
 
 
@@ -11,7 +15,7 @@ Tec-Lace has been coined from Neuralink Corporation (https://neuralink.com/), a 
 
 "It's cool when the TEC-1's tec-LACE electroencephalography device, which is worn on the outside, is reading your brain, smoking weed will improve the signals as the participant is in a relaxed state." 
 
-My way will not be intrusive, just use a low cost electrode cap.
+My way will not be intrusive, just use home grown pot with a low cost electrode cap. Jokes, just the cap the pots up to you.
 
 
 
