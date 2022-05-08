@@ -40,10 +40,8 @@ eg https://shop.openbci.com/collections/frontpage/products/openbci-eeg-electroca
 Product Features: 
 - Sleek, compact design for wet electrode EEG measurements
 - Compatibility with all OpenBCI boards and standard touch-proof connectors
-- Compatibility with OpenBCI's FREE open-source software
-  - https://www.opensourceimaging.org/project/openbci/
-- Compatibility with most bioamplifiers
-  - vendors
+- Compatibility with OpenBCI's FREE open-source software https://www.opensourceimaging.org/project/openbci/
+- Compatibility with most bioamplifiers vendors eg,
 1. TI
 2. Analog Devices
 3. Maxim Integrated
