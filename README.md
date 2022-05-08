@@ -28,6 +28,9 @@ My way will not be intrusive, just use a low cost electrode cap.
 
 eg https://shop.openbci.com/collections/frontpage/products/openbci-eeg-electrocap
 
+
+![](https://github.com/SteveJustin1963/tec-LACE/blob/master/pics/cap2.png)
+
 - The OpenBCI EEG Electrode Cap uses reliable wet electrodes. 
 - The product comes in two variants:
   - 21-channel electrode cap with removable, Ag/AgCl coated electrodes
@@ -43,8 +46,8 @@ Product Features:
 - Comes in two Ag-AgCl electrode variants, coated and sintered
 - The leads terminate in industry-standard 1.5mm Touch-Proof connectors and can be connected to the Cyton 8-channel or CytonDaisy 16-channel board with an electrode adapter
 
-![]()
-![]()
+cheaper versions...
+![](https://github.com/SteveJustin1963/tec-LACE/blob/master/pics/cap1.png)
 
 
 "It's cool when the TEC-1's tec-LACE electroencephalography device, which is worn on the outside, is reading your brain, smoking weed will improve the signals as the participant is in a relaxed state." 
