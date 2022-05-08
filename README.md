@@ -1,9 +1,13 @@
 # tec-LACE
 
-Tec-Lace has been coined from Neuralink Corporation, a neurotechnology company that develops implantable brain–machine interfaces (BMIs). Their "neural lace is an ultra-thin mesh with a collection of electrodes capable of monitoring brain function and facilitating direct computing capabilities from thought. It is inserted through the skull using a tiny needle containing the rolled-up mesh which unravels spanning the brain." My way will not be intrusive, just use a low cost electrode cap.  
+Tec-Lace has been coined from Neuralink Corporation (https://neuralink.com/), a neurotechnology company that develops implantable brain–machine interfaces (BMIs). Their "neural lace is an ultra-thin mesh with a collection of electrodes capable of monitoring brain function and facilitating direct computing capabilities from thought. It is inserted through the skull using a tiny needle containing the rolled-up mesh which unravels spanning the brain." 
+
+
 
 
 ## project
+![]()
+“The TEC1 can electroencephalography your brain with my neural lace worn on the outside… smoking weed will improve the signals” My way will not be intrusive, just use a low cost electrode cap.  
 
 connect to https://github.com/SteveJustin1963/tec-BRAIN
 
