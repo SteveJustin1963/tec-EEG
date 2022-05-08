@@ -14,7 +14,9 @@ Marty is trying to explain to Doc that he is from the future and needs his help 
 ### Neuralink Corporation 
 
 ![](https://github.com/SteveJustin1963/tec-LACE/blob/master/pics/emsw2.png)
-![]()
+![](https://github.com/SteveJustin1963/tec-LACE/blob/master/pics/idea1.png)
+![](https://github.com/SteveJustin1963/tec-LACE/blob/master/pics/idea2.png)
+![](https://github.com/SteveJustin1963/tec-LACE/blob/master/pics/idea3.png)
 
 
 
