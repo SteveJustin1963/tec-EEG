@@ -12,17 +12,21 @@ Marty is trying to explain to Doc that he is from the future and needs his help 
 ![](https://github.com/SteveJustin1963/tec-LACE/blob/master/pics/doc3.png)
 
 ### Neuralink Corporation 
-(https://neuralink.com/), ultra high bandwidth brain-machine interfaces to connect humans and computers, using implantable brain–machine interfaces (BMIs). Their "neural lace is an ultra-thin mesh with a collection of electrodes capable of monitoring brain function and facilitating direct computing capabilities from thought. It is inserted through the skull using a tiny needle containing the rolled-up mesh which unravels spanning the brain." 
+
+![](https://github.com/SteveJustin1963/tec-LACE/blob/master/pics/emsw2.png)
 ![]()
+
+
+
+(https://neuralink.com/), ultra high bandwidth brain-machine interfaces to connect humans and computers, using implantable brain–machine interfaces (BMIs). Their "neural lace is an ultra-thin mesh with a collection of electrodes capable of monitoring brain function and facilitating direct computing capabilities from thought. It is inserted through the skull using a tiny needle containing the rolled-up mesh which unravels spanning the brain." 
+"It's cool when the TEC-1's tec-LACE electroencephalography device, which is worn on the outside, is reading your brain, smoking weed will improve the signals as the participant is in a relaxed state." 
 
 
 
 
 ## project
 
-![](https://github.com/SteveJustin1963/tec-LACE/blob/master/pics/emsw2.png)
 
-"It's cool when the TEC-1's tec-LACE electroencephalography device, which is worn on the outside, is reading your brain, smoking weed will improve the signals as the participant is in a relaxed state." 
 
 My way will not be intrusive, just use home grown pot with a low cost electrode cap. Jokes, just the cap the pots up to you.
 
