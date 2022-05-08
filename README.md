@@ -1,6 +1,7 @@
 # tec-LACE
 
 ### Total Recall 1990
+Rekall, a company who can implant false memories of everything from exotic trips to sexual encounters ....warnings of previous Rekall customers ending up as lobotomised husks ....a high-tech chair to enjoy his Martian holiday.....memory implant process...dislodges ...repressed history bubbles back to the surface...his entire life is a false memory implanted ....discovers his true identity as an agent 
 
 ![](https://github.com/SteveJustin1963/tec-LACE/blob/master/pics/trc1.png)
 
