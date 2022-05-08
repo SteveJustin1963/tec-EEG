@@ -20,7 +20,9 @@ Marty is trying to explain to Doc that he is from the future and needs his help 
 
 
 (https://neuralink.com/), ultra high bandwidth brain-machine interfaces to connect humans and computers, using implantable brain–machine interfaces (BMIs). Their "neural lace is an ultra-thin mesh with a collection of electrodes capable of monitoring brain function and facilitating direct computing capabilities from thought. It is inserted through the skull using a tiny needle containing the rolled-up mesh which unravels spanning the brain." 
+
 "It's cool when the TEC-1's tec-LACE electroencephalography device, which is worn on the outside, is reading your brain, smoking weed will improve the signals as the participant is in a relaxed state." 
+
 ![](https://github.com/SteveJustin1963/tec-LACE/blob/master/pics/emsw2.png)
 
 
