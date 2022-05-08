@@ -6,13 +6,17 @@ Tec-Lace has been coined from Neuralink Corporation (https://neuralink.com/), a 
 
 
 ## project
-![]()
-“The TEC1 can electroencephalography your brain with my neural lace worn on the outside… smoking weed will improve the signals” My way will not be intrusive, just use a low cost electrode cap.  
 
-connect to https://github.com/SteveJustin1963/tec-BRAIN
+![](https://github.com/SteveJustin1963/tec-LACE/blob/master/pics/emsw1.png)
+
+"It's cool when the TEC-1's tec-LACE electroencephalography device, which is worn on the outside, is reading your brain, smoking weed will improve the signals as the participant is in a relaxed state." 
+
+My way will not be intrusive, just use a low cost electrode cap.
+
 
 
 ## Iterate
+- connect to https://github.com/SteveJustin1963/tec-BRAIN
 - Cognitive radio links to form mental mesh links between multiple humans and or tec-Brains
 - https://github.com/SteveJustin1963/tec-Cogni-io
 
