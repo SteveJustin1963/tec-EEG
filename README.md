@@ -7,9 +7,7 @@ s1e1-pilot, features two people merging their brains together using a special in
 
 ### Back-to-the-Future-part I
 
-![](https://github.com/SteveJustin1963/tec-LACE/blob/master/pics/doc1.png)
-
-![](https://github.com/SteveJustin1963/tec-LACE/blob/master/pics/doc2.png)
+Marty is trying to explain to Doc that he is from the future and needs his help to get back to the year 1985. However, Doc is not interested in listening to him and instead tries to read his thoughts using some kind of advanced technology that allows him to read thoughts. "Marty: Doc, I'm from the future. I came here in a time machine that you invented. Now, I need your help to get back to the year 1985. Doc: My god, do you know what this means? It means that this damn thing doesn't work at all." 
 
 ![](https://github.com/SteveJustin1963/tec-LACE/blob/master/pics/doc3.png)
 
