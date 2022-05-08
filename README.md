@@ -7,7 +7,7 @@ Tec-Lace has been coined from Neuralink Corporation (https://neuralink.com/), a 
 
 ## project
 
-![](https://github.com/SteveJustin1963/tec-LACE/blob/master/pics/emsw1.png)
+![](https://github.com/SteveJustin1963/tec-LACE/blob/master/pics/emsw2.png)
 
 "It's cool when the TEC-1's tec-LACE electroencephalography device, which is worn on the outside, is reading your brain, smoking weed will improve the signals as the participant is in a relaxed state." 
 
