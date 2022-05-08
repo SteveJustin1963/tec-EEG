@@ -41,7 +41,16 @@ Product Features:
 - Sleek, compact design for wet electrode EEG measurements
 - Compatibility with all OpenBCI boards and standard touch-proof connectors
 - Compatibility with OpenBCI's FREE open-source software
+  - https://www.opensourceimaging.org/project/openbci/
 - Compatibility with most bioamplifiers
+  - vendors
+1. TI
+2. Analog Devices
+3. Maxim Integrated
+4. NXP
+5. STMicroelectronics
+- DIY low cost bioamplifiers using inexpensive op-amps, https://www.electrical4u.com/biological-amplifiers/
+
 - Electrodes located and labeled using the internationally recognized 10-20 system
 - Comes in two Ag-AgCl electrode variants, coated and sintered
 - The leads terminate in industry-standard 1.5mm Touch-Proof connectors and can be connected to the Cyton 8-channel or CytonDaisy 16-channel board with an electrode adapter
