@@ -58,7 +58,7 @@ cheaper versions...
 ![](https://github.com/SteveJustin1963/tec-LACE/blob/master/pics/cap1.png)
 
 
-"It's cool when the TEC-1's tec-LACE electroencephalography device, which is worn on the outside, is reading your brain, smoking weed will improve the signals as the participant is in a relaxed state." 
+"No, this is realy cool. We ran some test and got some realy interesting results on the computer when we tested the tec-LACE, an electroencephalography device as worn on the outside of your nut. We found that as you smoke some realy good weed and saying out loud the following, Good-shit, Weed, Pot, Reefer, Grass, Dope, Ganja, Mary Jane, Hash, Herb, Aunt Mary, Skunk, Boom, Chronic, Cheeba, Blunt, Ashes, Atshitshi, Baby Bhang, Bammy, Blanket, Bo-Bo, Bobo Bush, Bomber, Boom, Broccoli, Cripple, Dagga, Dinkie, Dow, Ding, Dona, Juana, Juanita, Flower, Flower Tops, Ganja, Gasper, Giggle Smoke, Good Giggles, Good Butt, Hot Stick, Jay Jolly Green, Joy Smoke, Joy Stick and so on, it peeks the signals as the participant is in a relaxed state." 
 
 ![](https://github.com/SteveJustin1963/tec-LACE/blob/master/pics/emsw2.png)
 
