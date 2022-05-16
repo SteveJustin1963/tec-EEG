@@ -65,7 +65,7 @@ cheaper versions...
 
 
 ### The Joe Rogan Experience
-"This was totaly lit and realy cool. We ran some test and got some realy interesting results on the computer when we tested the tec-LACE, an electroencephalography device as worn on the outside of your nut. We found that as you smoke some realy good weed and saying out loud the following, Good-shit, Weed, Pot, Reefer, Grass, Dope, Ganja, Mary Jane, Hash, Herb, Aunt Mary, Skunk, Boom, Chronic, Cheeba, Blunt, Ashes, Atshitshi, Baby Bhang, Bammy, Blanket, Bo-Bo, Bobo Bush, Bomber, Boom, Broccoli, Cripple, Dagga, Dinkie, Dow, Ding, Dona, Juana, Juanita, Flower, Flower Tops, Ganja, Gasper, Giggle Smoke, Good Giggles, Good Butt, Hot Stick, Jay Jolly Green, Joy Smoke, Joy Stick and so on, it peeks the signals on the tec1 and the participant is more relaxed." No shit. 
+"This was totaly lit and realy cool. We ran some test and got some realy interesting results on the computer when we tested the tec-LACE, an electroencephalography device as worn on the outside of your nut. We found that as you smoke some realy good weed and saying out loud the following, Good-shit, Weed, Pot, Reefer, Grass, Dope, Ganja, Mary Jane, Hash, Herb, Aunt Mary, Skunk, Boom, Chronic, Cheeba, Blunt, Ashes, Atshitshi, Baby Bhang, Bammy, Blanket, Bo-Bo, Bobo Bush, Bomber, Boom, Broccoli, Cripple, Dagga, Dinkie, Dow, Ding, Dona, Juana, Juanita, Flower, Flower Tops, Ganja, Gasper, Giggle Smoke, Good Giggles, Good Butt, Hot Stick, Jay Jolly Green, Joy Smoke, Joy Stick and so on, it peeks the signals on the tec1 and the participant got more relaxed." No shit. 
 
 ![](https://github.com/SteveJustin1963/tec-LACE/blob/master/pics/emsw2.png)
 
