@@ -1,10 +1,8 @@
 # tec-EEG
 
+wiki; Electroencephalography (EEG) is a method to record an electrogram of the electrical activity on the scalp that has been shown to represent the macroscopic activity of the surface layer of the brain underneath. It is typically non-invasive, with the electrodes placed along the scalp. Electrocorticography, involving invasive electrodes, is sometimes called "intracranial EEG".
 
-### ECG
-Electrocardiography is the process of producing an electrocardiogram (ECG or EKG[a]), a recording of the heart's electrical activity.[4] It is an electrogram of the heart which is a graph of voltage versus time of the electrical activity of the heart[5] using electrodes placed on the skin. These electrodes detect the small electrical changes that are a consequence of cardiac muscle depolarization followed by repolarization during each cardiac cycle (heartbeat).
-
-
+EEG measures voltage fluctuations resulting from ionic current within the neurons of the brain.[1] Clinically, EEG refers to the recording of the brain's spontaneous electrical activity over a period of time, as recorded from multiple electrodes placed on the scalp.[1] Diagnostic applications generally focus either on event-related potentials or on the spectral content of EEG. The former investigates potential fluctuations time locked to an event, such as 'stimulus onset' or 'button press'. The latter analyses the type of neural oscillations (popularly called "brain waves") that can be observed in EEG signals in the frequency domain.
 
 ### electrical activity of the brain.
 
@@ -103,13 +101,14 @@ cheaper versions...
 
 
 
-## Iterate
+### Iterate
 - connect to https://github.com/SteveJustin1963/tec-BRAIN
 - Cognitive radio links to form mental mesh links between multiple humans and or tec-Brains
 - https://github.com/SteveJustin1963/tec-Cogni-io
 
 
-## Ref
+### Ref
+- https://en.wikipedia.org/wiki/Electroencephalography
 - https://openbci.com/
 - https://www.facebook.com/xrobotsuk/
 - https://github.com/XRobots
