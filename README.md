@@ -1,5 +1,9 @@
-# tec-LACE
-EEG
+# tec-EEG
+
+
+### ECG
+Electrocardiography is the process of producing an electrocardiogram (ECG or EKG[a]), a recording of the heart's electrical activity.[4] It is an electrogram of the heart which is a graph of voltage versus time of the electrical activity of the heart[5] using electrodes placed on the skin. These electrodes detect the small electrical changes that are a consequence of cardiac muscle depolarization followed by repolarization during each cardiac cycle (heartbeat).
+
 
 
 ### electrical activity of the brain.
@@ -60,15 +64,10 @@ The algorithm is designed to work with two types of mental states: mental fatigu
 
 
 
-### ECG
-Electrocardiography is the process of producing an electrocardiogram (ECG or EKG[a]), a recording of the heart's electrical activity.[4] It is an electrogram of the heart which is a graph of voltage versus time of the electrical activity of the heart[5] using electrodes placed on the skin. These electrodes detect the small electrical changes that are a consequence of cardiac muscle depolarization followed by repolarization during each cardiac cycle (heartbeat).
-
-
-
 
 ### My project
 
-My way will not be intrusive, just use a low cost electrode cap. 
+use a low cost electrode cap or electrodes with conductive gel. 
 
 eg https://shop.openbci.com/collections/frontpage/products/openbci-eeg-electrocap
 
@@ -100,13 +99,6 @@ Product Features:
 cheaper versions...
 
 ![](https://github.com/SteveJustin1963/tec-LACE/blob/master/pics/cap1.png)
-
-
-### The Joe Rogan Experience
-"This was totaly lit and realy cool. We ran some test and got some realy interesting results on the computer when we tested the tec-LACE, an electroencephalography device as worn on the outside of your nut. We found that as you smoke some realy good weed, it peeks the signals on the tec1"... No shit. 
-
-![](https://github.com/SteveJustin1963/tec-LACE/blob/master/pics/emsw2.png)
-
 
 
 
