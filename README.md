@@ -1,31 +1,9 @@
 # tec-LACE
+EEG
 
-### Total Recall 1990
-The Rekall machine is a device that can implant false memories into a person's mind, making them believe that they have experienced something that they have not actually experienced...of everything from exotic trips to sexual encounters ....warnings of previous Rekall customers ending up as lobotomised husks ....straps into a high-tech chair to enjoy his Martian holiday.....memory implant process...dislodges ...repressed history bubbles back to the surface...his entire life is a false memory implanted ....discovers his true identity as an agent...gets revenge.
-
-![](https://github.com/SteveJustin1963/tec-LACE/blob/master/pics/trc1.png)
-
-### Fringe tv series
-s1e1-pilot, features two people merging their brains together using a special interface. This is based on neural plasticity, the brain's ability to adapt and change in response to new experiences. When two people merge their brains together, they are essentially creating a new learning experience for each other. This is done by spiking each other in the neck, which allows the two brains to merge together.
-
-![](https://github.com/SteveJustin1963/tec-LACE/blob/master/pics/ftvs1e3.png)
+ECG
 
 
-### Back-to-the-Future-part I
-
-Marty is trying to explain to Doc that he is from the future and needs his help to get back to the year 1985. However, Doc is not interested in listening to him and instead tries to read his thoughts using some kind of advanced technology that allows him to read thoughts. "Marty: Doc, I'm from the future. I came here in a time machine that you invented. Now, I need your help to get back to the year 1985. Doc: My god, do you know what this means? It means that this damn thing doesn't work at all." 
-
-![](https://github.com/SteveJustin1963/tec-LACE/blob/master/pics/doc3.png)
-
-### Neuralink Corporation 
-
-![](https://github.com/SteveJustin1963/tec-LACE/blob/master/pics/idea1.png)
-![](https://github.com/SteveJustin1963/tec-LACE/blob/master/pics/idea2.png)
-![](https://github.com/SteveJustin1963/tec-LACE/blob/master/pics/idea3.png)
-
-
-
-(https://neuralink.com/), ultra high bandwidth brain-machine interfaces to connect humans and computers, using implantable brain–machine interfaces (BMIs). Their "neural lace is an ultra-thin mesh with a collection of electrodes capable of monitoring brain function and facilitating direct computing capabilities from thought. It is inserted through the skull using a tiny needle containing the rolled-up mesh which unravels spanning the brain." 
 
 
 ### My project
