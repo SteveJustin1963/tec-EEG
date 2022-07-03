@@ -109,6 +109,7 @@ cheaper versions...
 
 ### Ref
 - https://en.wikipedia.org/wiki/Electroencephalography
+- https://en.wikipedia.org/wiki/EEG_analysis
 - https://openbci.com/
 - https://www.facebook.com/xrobotsuk/
 - https://github.com/XRobots
