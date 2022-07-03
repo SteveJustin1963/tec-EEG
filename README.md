@@ -37,6 +37,8 @@ Event-related potentials (ERPs) are changes in the electrical activity of the br
 various stimuli, such as sounds, pictures, or words. ERPs are measured by placing electrodes on the scalp and recording the electrical activity of the brain.
 with sixteen electrodes, attached to the scalp, were used to record EEG-signals. The electrodes were placed according to the International Electrode (10-20) Placement. The International 10-20 System (https://en.wikipedia.org/wiki/10%E2%80%9320_system_(EEG)) is the most widely used method for positioning electrodes on the scalp for EEG recordings. The system is based on the relationship between the location of electrodes on the scalp and the underlying area of the brain. The system consists of 19 electrodes, which are placed on the scalp in specific locations. 
 
+### EEG analysis 
+is exploiting mathematical signal analysis methods and computer technology to extract information from electroencephalography (EEG) signals. The targets of EEG analysis are to help researchers gain a better understanding of the brain; assist physicians in diagnosis and treatment choices; and to boost brain-computer interface (BCI) technology. There are many ways to roughly categorize EEG analysis methods. If a mathematical model is exploited to fit the sampled EEG signals,[1] the method can be categorized as parametric, otherwise, it is a non-parametric method. Traditionally, most EEG analysis methods fall into four categories: time domain, frequency domain, time-frequency domain, and nonlinear methods.[2] There are also later methods including deep neural networks (DNNs).
 
 ### EEG waves 
 are classified as delta (0.5–4 Hz), theta (4–8 Hz), alpha (8–13 Hz), beta (13–35 Hz), and gamma (>35 Hz) waves. Grossi et al. [42] 
@@ -52,9 +54,6 @@ The proposed IFAST algorithm consists of three different phases: training, testi
 - The third and final phase is the validation phase in which the algorithm is tested on a new set of EEG data to ensure that it is still accurate.  
 
 The algorithm is designed to work with two types of mental states: mental fatigue and mental workload. Mental fatigue is a state of tiredness or exhaustion that can impair cognitive performance. Mental workload is a state of stress or mental strain that can also impair cognitive performance. 
-
-
-
 
 
 
@@ -103,7 +102,7 @@ cheaper versions...
 
 ### Iterate
 - connect to https://github.com/SteveJustin1963/tec-BRAIN
-- Cognitive radio links to form mental mesh links between multiple humans and or tec-Brains
+- Cognitive links with other people, animals or the tec-Brain
 - https://github.com/SteveJustin1963/tec-Cogni-io
 
 
