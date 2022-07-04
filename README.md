@@ -64,21 +64,8 @@ The algorithm is designed to work with two types of mental states: mental fatigu
 
 ### My project
 
-use a low cost electrode cap or electrodes with conductive gel. 
-
-eg https://shop.openbci.com/collections/frontpage/products/openbci-eeg-electrocap
-
-
-![](https://github.com/SteveJustin1963/tec-LACE/blob/master/pics/cap2.png)
-
-- The OpenBCI EEG Electrode Cap uses reliable wet electrodes. 
-- The product comes in two variants:
-  - 21-channel electrode cap with removable, Ag/AgCl coated electrodes
-  - Premium 21-channel electrode cap with patented, sintered Ag/AgCl electrodes
-- Note, electrode gel and touchproof adapter must be purchased.
-
-Product Features: 
-- Sleek, compact design for wet electrode EEG measurements
+### low cost electrode cap with conductive gel. 
+https://shop.openbci.com/collections/frontpage/products/openbci-eeg-electrocap
 - Compatibility with all OpenBCI boards and standard touch-proof connectors
 - Compatibility with OpenBCI's FREE open-source software https://www.opensourceimaging.org/project/openbci/
 - Compatibility with most bioamplifiers vendors eg,
@@ -87,15 +74,37 @@ Product Features:
 3. Maxim Integrated
 4. NXP
 5. STMicroelectronics
-- DIY low cost bioamplifiers using inexpensive op-amps, https://www.electrical4u.com/biological-amplifiers/
-
+6. DIY low cost bioamplifiers using inexpensive op-amps, https://www.electrical4u.com/biological-amplifiers/
 - Electrodes located and labeled using the internationally recognized 10-20 system
 - Comes in two Ag-AgCl electrode variants, coated and sintered
 - The leads terminate in industry-standard 1.5mm Touch-Proof connectors and can be connected to the Cyton 8-channel or CytonDaisy 16-channel board with an electrode adapter
 
-cheaper versions...
+### what is the voltage of an eeg signal
+A typical adult human EEG signal is about 10 µV to 100 µV in amplitude when measured from the scalp. Since an EEG voltage signal represents a difference between the voltages at two electrodes, the display of the EEG for the reading encephalographer may be set up in one of several ways. What is a single amplitude of EEG?
+The amplitude of the EEG is about 100 µV when measured on the scalp, and about 1-2 mV when measured on the surface of the brain. The bandwidth of this signal is from under 1 Hz to about 50 Hz
 
-![](https://github.com/SteveJustin1963/tec-LACE/blob/master/pics/cap1.png)
+### What is the signal amplitude range of EEG?
+The amplitude of the EEG pattern is the strength of the pattern in terms of microvolts of electrical energy. There are four basic EEG frequency patterns as follows: Beta (14-30 Hz), Alpha (8-13 Hz), Theta (4-7 Hz), and Delta (1-3 Hz). In general, the amplitude of the EEG increases as the frequency decreases.
+
+### What are normal EEG waves?
+Most waves of 8 Hz and higher frequencies are normal findings in the EEG of an awake adult. Waves with a frequency of 7 Hz or less often are classified as abnormal in awake adults,
+
+### What is the typical frequency range of standard EEG machines?
+from 0.1 Hz to 70 Hz
+
+### What are the electrodes used for EEG?
+The four EEG Electrode Types
+- Traditional Wet Ag/AgCl Electrodes (Wet) ...
+- Active Dry Single Gold Pin-Based Electrodes (BP Gold) ...
+- Hybrid Dry Multiple Spikes-Based Electrodes (Quasar) ...
+- Passive Dry Solid-Gel Based Electrodes (BP Solid)
+
+
+
+
+
+
+
 
 
 
